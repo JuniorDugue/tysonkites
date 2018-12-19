@@ -7,9 +7,15 @@
   --font-size: 1.90rem;
 }
 
+html, body {
+  font-family: 'Open Sans', sans-serif;
+}
+
 html {
   font-size: 62.5%;
-  font-family: 'Open Sans', sans-serif;
+<<<<<<< HEAD
+=======
+>>>>>>> 3d2581e6149839347f4a9153326afa1b611cdc78
 }
 
 .container {
